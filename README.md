@@ -1,6 +1,6 @@
 
 <h1>
-  hi every one its shoots here hw a u dea
+  WELCOME TO THE HUB
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=front+end+specialist+in+modern+generation" alt="Typing SVG" /></a><h2>
   some tools and technologies i hv used include
