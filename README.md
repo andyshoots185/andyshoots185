@@ -2,8 +2,7 @@
 <h1>
   hi every one its shoots here hw a u dea
 </h1>
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=A+React+Frontend+Developer)
-<h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a><h2>
   some tools and technologies i hv used include
 
 </h2>
