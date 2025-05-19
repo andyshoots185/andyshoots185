@@ -3,7 +3,8 @@
   WELCOME TO THE HUB
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=front+end+specialist+in+modern+generation" alt="Typing SVG" />
-# 👋 Hi, I'm [Your Name]
+<div>
+  # 👋 Hi, I'm [Your Name]
 
 I'm a **Front-End Developer** with a passion for crafting beautiful, accessible, and high-performing web applications. With a strong foundation in **HTML, CSS, JavaScript**, and modern frameworks like **React**, I turn ideas into responsive and interactive user experiences.
 
@@ -37,6 +38,8 @@ I'm always open to collaboration, feedback, and opportunities to learn and grow.
 ---
 
 Thanks for stopping by! ⭐ Feel free to check out my repositories and follow for updates.
+
+</div>
 
 
 </a><h2>
